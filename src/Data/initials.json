@@ -1,0 +1,140 @@
+[
+    {
+        "rep": "zh",
+        "IPA": "ʈʂ",
+        "approximation": "nur/t/ure",
+        "explanation": "Unaspirated ch. Similar to hatching but retroflex, or marching in American English. Voiced in a toneless syllable."
+    },
+    {
+        "rep": "ch",
+        "IPA": "ʈʂʰ",
+        "approximation": "/ch/urch ",
+        "explanation": "Similar to chin, but retroflex."
+    },
+    {
+        "rep": "sh",
+        "IPA": "ʂ",
+        "approximation": "/sh/irt ",
+        "explanation": "Similar to shoe but retroflex, or marsh in American English."
+    },
+    {
+        "rep": "b",
+        "IPA": "p",
+        "approximation": "s/p/ark",
+        "explanation": "unaspirated p, as in spark"
+    },
+    {
+        "rep": "p",
+        "IPA": "p",
+        "approximation": "/p/ay ",
+        "explanation": "strongly aspirated p, as in pit"
+    },
+    {
+        "rep": "m",
+        "IPA": "m",
+        "approximation": "/m/ay ",
+        "explanation": "as in English mummy"
+    },
+    {
+        "rep": "f",
+        "IPA": "f",
+        "approximation": "/f/air ",
+        "explanation": "as in English fun"
+    },
+    {
+        "rep": "d",
+        "IPA": "t",
+        "approximation": "s/t/op ",
+        "explanation": "unaspirated t, as in stop"
+    },
+    {
+        "rep": "t",
+        "IPA": "t",
+        "approximation": "take ",
+        "explanation": "strongly aspirated t, as in top"
+    },
+    {
+        "rep": "n",
+        "IPA": "n",
+        "approximation": "nay ",
+        "explanation": "as in English nit"
+    },
+    {
+        "rep": "l",
+        "IPA": "l",
+        "approximation": "lay ",
+        "explanation": "as in English love"
+    },
+    {
+        "rep": "g",
+        "IPA": "k",
+        "approximation": "skill ",
+        "explanation": "unaspirated k, as in skill"
+    },
+    {
+        "rep": "k",
+        "IPA": "kʰ",
+        "approximation": "kay ",
+        "explanation": "strongly aspirated k, as in kill"
+    },
+    {
+        "rep": "h",
+        "IPA": "h/x",
+        "approximation": "loch ",
+        "explanation": "Varies between hat and Scottish loch."
+    },
+    {
+        "rep": "j",
+        "IPA": "tɕ",
+        "approximation": "churchyard",
+        "explanation": "Alveo-palatal. No equivalent in English, but similar to an unaspirated \"-chy-\" sound when said quickly. Like q, but unaspirated. Is similar to the English name of the letter G, but curl the tip of the tongue downwards to stick it at the back of the teeth."
+    },
+    {
+        "rep": "q",
+        "IPA": "tɕʰ",
+        "approximation": "punch yourself",
+        "explanation": "Alveo-palatal. No equivalent in English. Like punch yourself, with the lips spread wide as when one says ee. Curl the tip of the tongue downwards to stick it at the back of the teeth and strongly aspirate."
+    },
+    {
+        "rep": "x",
+        "IPA": "ɕ",
+        "approximation": "push yourself",
+        "explanation": "Alveo-palatal. No equivalent in English. Like -sh y-, with the lips spread as when one says ee and with the tip of the tongue curled downwards and stuck to the back of the teeth."
+    },
+    {
+        "rep": "r",
+        "IPA": "ɻ~ʐ",
+        "approximation": "ray ",
+        "explanation": "No equivalent in English, but similar to a sound between r in reduce and s in measure but with the tongue curled upward against the top of the mouth (i.e. retroflex)."
+    },
+    {
+        "rep": "z",
+        "IPA": "ts",
+        "approximation": "pizza ",
+        "explanation": "unaspirated c, similar to something between suds but voiceless, unless in a toneless syllable."
+    },
+    {
+        "rep": "c",
+        "IPA": "tsʰ",
+        "approximation": "hats ",
+        "explanation": "like the English ts in cats, but strongly aspirated, very similar to the Czech, Polish, Esperanto, and Slovak c."
+    },
+    {
+        "rep": "s",
+        "IPA": "s",
+        "approximation": "say ",
+        "explanation": "as in sun"
+    },
+    {
+        "rep": "w",
+        "IPA": "w",
+        "approximation": "way ",
+        "explanation": "as in water. Before an e or a it is sometimes pronounced like v as in violin.*"
+    },
+    {
+        "rep": "y",
+        "IPA": "j/ɥ",
+        "approximation": "yes ",
+        "explanation": "as in yes. Before a u, pronounced with rounded lips, as if pronouncing German ü.*"
+    },
+]
